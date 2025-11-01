@@ -1,1 +1,1 @@
-# Bill-Division
+# Bill-Division This code calculates Anna’s fair share of a restaurant bill by excluding the item she didn’t eat and splitting the rest equally. It then prints “Bon Appetit” if she was charged correctly or the amount she was overcharged otherwise.
